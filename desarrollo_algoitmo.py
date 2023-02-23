@@ -4,4 +4,9 @@ print(50*10)
 print(555*20)
 print(77*8)
 
+# la division(/)
+print(8/4)
+print(66/22)
+print(22/4)
+
 
